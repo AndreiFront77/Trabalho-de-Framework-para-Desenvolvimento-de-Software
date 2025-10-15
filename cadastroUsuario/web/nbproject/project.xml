@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.web.project</type>
+    <configuration>
+        <data xmlns="">
+            <name>cadastroUsuario-web</name>
+            <display-name>Cadastro Usuario Web</display-name>
+            <web-module-version>4.0</web-module-version>
+            <context-path>/cadastroUsuario</context-path>
+        </data>
+    </configuration>
+</project>

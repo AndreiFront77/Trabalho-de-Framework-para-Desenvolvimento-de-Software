@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="cadastroUsuario-web" default="run" basedir=".">
+    <property name="nbproject.dir" value="nbproject"/>
+
+    <import file="${nbproject.dir}/build-impl.xml"/>
+
+    <!-- If you need custom targets, add them here. NetBeans generates build-impl.xml in nbproject when opening the project. -->
+
+</project>
